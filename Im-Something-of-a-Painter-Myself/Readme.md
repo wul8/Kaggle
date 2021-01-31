@@ -9,6 +9,6 @@ Download from [link](https://www.kaggle.com/c/gan-getting-started/data)
 
 # Sample Output
 
-![alt text](https://github.com/wul8/Image/blob/main/1-1.png)![alt text](https://github.com/wul8/Image/blob/main/1-0.png)     
+![alt text](https://user-images.githubusercontent.com/42815776/106377758-01eba800-6365-11eb-967f-b345700d48a0.png)![alt text](https://user-images.githubusercontent.com/42815776/106377733-d49efa00-6364-11eb-98be-d81ded99741c.png)
         
-![alt text](https://github.com/wul8/Image/blob/main/1-2.png)![alt text](https://github.com/wul8/Image/blob/main/1-3.png)    
+![alt text](https://user-images.githubusercontent.com/42815776/106377769-15970e80-6365-11eb-9e5b-7754b14e54c6.png)![alt text](https://user-images.githubusercontent.com/42815776/106377783-234c9400-6365-11eb-8793-f56659a4cbff.png)  
